@@ -1,4 +1,4 @@
-#Mobile Programming Assignment 1
+<h1>Mobile Programming Assignment 1
 **소프트웨어학부 20181702 최혁태**
 
 ##첫번째 화면
